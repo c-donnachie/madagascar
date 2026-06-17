@@ -12,12 +12,12 @@
         "source": "github",
         "repo": "c-donnachie/skipper"
       },
-      "description": "🐧 The captain. Complete framework: detects stack, applies opinionated profile, keeps living docs (ADRs/PRDs/plans), refactors with specialist subagents (architect, solid-coach, react-vite, react-native, nextjs, node-backend, supabase).",
-      "version": "1.0.1",
+      "description": "🐧 The captain. Complete framework: detects stack, applies opinionated profile, keeps living docs (ADRs/PRDs/plans), refactors with specialist subagents. v1.4 adds Skipper Memory — a queryable, cited, proactive memory of your project's decisions (ask/context/relate + an MCP server for agents).",
+      "version": "1.4.0",
       "author": {
         "name": "Cristian Donnachie"
       },
-      "keywords": ["framework", "documentation", "adr", "prd", "architecture", "solid", "clean-code"]
+      "keywords": ["framework", "documentation", "adr", "prd", "architecture", "solid", "clean-code", "memory", "knowledge-graph", "mcp"]
     }
   ]
 }
