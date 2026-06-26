@@ -13,7 +13,7 @@
         "repo": "c-donnachie/skipper"
       },
       "description": "🐧 The captain. Complete framework: detects stack, applies opinionated profile, keeps living docs (ADRs/PRDs/plans), refactors with specialist subagents. v1.4 adds Skipper Memory — a queryable, cited, proactive memory of your project's decisions (ask/context/relate + an MCP server for agents).",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "author": {
         "name": "Cristian Donnachie"
       },
